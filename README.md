@@ -4,7 +4,7 @@ Use Free  Speech Recognition API to realize a TV controller. Can set channel thr
 This project is a Android practice project.
 The fucntions of this project:
 1, can awaken by speech and can set command through speech;
-2, send/receive IR code;
+2, send/receive IR code(ConsumerIrManager);
 3, can import the IR code;
 
 
